@@ -1,0 +1,2 @@
+# PythonQSB
+Python bitirme projesi
