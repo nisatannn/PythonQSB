@@ -9,9 +9,11 @@ Sonrasında adam asmaca oyunu görüntüsünü temsilen resim kodları yazıldı
 ![Ekran Görüntüsü (59)](https://user-images.githubusercontent.com/104464419/166005333-408461f2-2b98-4532-b859-79d80f4d9d1c.png)
 
 Bu oyun için bizlerin yani molecular ekibinin ilgisini çeken ve alanımızla alakalı olan bazı kelimeleri seçtik ve ekledik.
+
 ![Ekran Görüntüsü (56)](https://user-images.githubusercontent.com/104464419/166004184-b404295e-32f6-4c9d-9321-824ac151e1ec.png)
 
 Her tahmin sonrasında yanlış veya doğru tahmine yönelik ipucu veriliyor.
+
 ![Ekran Görüntüsü (60)](https://user-images.githubusercontent.com/104464419/166006257-757227f1-53bf-4bdd-a084-49e3a0397c04.png)
 
 Eğer bilemezseniz ve adam asılırsa uyarılıyorsunuz. Uyarılmanın yanı sıra oyun sonlandırıldığında tekrar oynama şansı sunuluyor.
